@@ -1,4 +1,5 @@
 ul{
+    margin-bottom: auto;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -7,4 +8,16 @@ ul{
 
 li {
     display: inline;
+}
+
+/*body{*/
+/*    background-image: url("https://www.google.com.hk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png");*/
+/*    vertical-align: middle;*/
+/*}*/
+
+.google{
+    padding-top: 200px;
+    width: 50%;
+    height: auto;
+    margin:auto;
 }
